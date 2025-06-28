@@ -6,6 +6,7 @@ It includes:
 👉 A testbench to simulate the circuit and observe the output for different input combinations
 
 👉 A small hello-world-style Verilog program to verify that the Verilog environment works correctly in VS Code
+
 How to run the simulation⁉️
 
 Make sure Icarus Verilog is installed on your system. You can compile and simulate using these commands:
